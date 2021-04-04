@@ -1,0 +1,1 @@
+console.log("Uma mensagem bonita!");
