@@ -1,3 +1,25 @@
+let [] = Math.floor(Math.random() * 10);
+//let num2 = [0,1,2];
+//console.log(num1);
+console.log(num1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // console.log("Escolha uma opção:");
 // let opcao;
 // do {
